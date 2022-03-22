@@ -1,0 +1,3 @@
+# THIS IS MY STATEMENT
+
+The main intention when creating this AR quiz was to experiment with implementing shapes and colors. I have experimented adding shapes, editing colors, editing opacity, and adding text in the ar. I wanted to experiment with working with the ar.js code is to learn how to do augment reality. Learning how to add and edit colors and opacity helped me to expand my knowledge on how to use ar.js. The text in the augment reality helped to show the controls to move around the AR site.
